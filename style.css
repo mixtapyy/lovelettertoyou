@@ -1,0 +1,24 @@
+html{
+    background-color: #A3B18A;
+}
+h1{
+    font-family: "Dancing Script", cursive;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    font-family: "Lora", serif;
+}
+p{
+    text-align: center;
+    font-family: "Lora", serif;
+}
+h3{
+    text-align: center;
+    font-family: "Dancing Script", cursive;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
